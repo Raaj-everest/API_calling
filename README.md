@@ -1,27 +1,27 @@
-# API_calling
+# API_calling <br/>
 The assignment is given by subbu and bala bro <br/>
-step 1: set up the testing environment for typescript
-commands used:
+Step 1: set up the testing environment for typescript<br/>
+commands used:<br/>
  ------------
-   npm init,
-   npm i -D jest typescript,
-   npm i -D ts-jest @types/jest,
-   npx ts-jest config:init,
+   npm init,<br/>
+   npm i -D jest typescript,<br/>
+   npm i -D ts-jest @types/jest,<br/>
+   npx ts-jest config:init,<br/>
 
-  the dependencied used are
+  the dependencied used are<br/>
    "devDependencies": {
     "@types/jest": "^27.0.2",
     "jest": "^27.2.2",
     "ts-jest": "^27.0.5",
     "typescript": "^4.4.3"
-  },
+  },<br/>
 
-step 2: installed Axios for fetching the API
+Step 2: installed Axios for fetching the API<br/>
   ---------------
-   npm install axios
+   npm install axios<br/>
   "dependencies": {
     "axios": "^0.22.0"
-  }
-step:3: to test the code use  
+  }<br/>
+step:3: to test the code use  <br/>
 ------------------
    npm run test app.test.js
