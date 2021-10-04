@@ -4,7 +4,7 @@
   "description": "just trying to explain the set-up of unit testing.",
   "main": "index.js",
   "scripts": {
-    "test": "jest /*.test.js"
+    "test": "jest /*.test.ts"
   },
   "author": "",
   "license": "ISC",
