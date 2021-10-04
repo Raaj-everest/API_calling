@@ -16,12 +16,12 @@ commands used:<br/>
     "typescript": "^4.4.3"
   },<br/>
 
-Step 2: installed Axios for fetching the API<br/>
+Step 2: installed Axios for fetching the API <br/>
   ---------------
    npm install axios<br/>
   "dependencies": {
     "axios": "^0.22.0"
-  }<br/>
+  } <br/>
 step:3: to test the code use  <br/>
-------------------
+  ---------------
    npm run test app.test.js
